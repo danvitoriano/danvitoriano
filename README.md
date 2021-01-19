@@ -1,6 +1,6 @@
 ### Hi there, I am Danilo Vitoriano 👋
 
-
+- :rocket: I'm a Software Developer.
 - 🔭 I’m currently working as a Professor at Fiap's MBA.
 - 🌱 I’m currently learning Data Science and Video Acessibility at ICMC-USP Computer Science Graduate Degree.
 - 👯 I’m looking to collaborate on social projects where people can learn code.
