@@ -1,5 +1,6 @@
 ### Hi there, I am Danilo Vitoriano 👋
 
+- 🌈 Organizer Orgulho Tech Conference Brazil 2024: https://even3.com.br/orgulho-tech-conf
 - :rocket: I'm a Software Developer.
 - 🥇 Recently I was honored as a LinkedIn Creator accelerated by their program in Brazil, and listed as one of 50 developers to follow by Gama Academy tech school at 2022 and 2023.
 - 🔭 I’m currently working as a Teacher at Devs 40+ community, and producing the first event dedicated to LGBTQ+ professionals.
