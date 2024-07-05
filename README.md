@@ -1,10 +1,10 @@
 ### Hi there, I am Danilo Vitoriano 👋
 
-- 🌈 Organizer Orgulho Tech Conference Brazil 2024: https://even3.com.br/orgulho-tech-conf
+- 🌈 Organizer Orgulho Tech Conference Brazil 2024
 - :rocket: I'm a Software Developer.
-- 🥇 Recently I was honored as a LinkedIn Creator accelerated by their program in Brazil, and listed as one of 50 developers to follow by Gama Academy tech school at 2022 and 2023.
-- 🔭 I’m currently working as a Teacher at Devs 40+ community, and producing the first event dedicated to LGBTQ+ professionals.
-- 💻 Formerly FIAP, ThoughtWorks, Pagbank and Oi companies.
+- 🥇 Recently I was honored as a LinkedIn Top Voice in Software Development, and accelerated by their program in Brazil, and listed as one of 50 developers to follow by Gama Academy tech school at 2022 and 2023.
+- 🔭 I’m currently working as a Software Developer Consultant specialized in front-end solutions with JavaScript.
+- 💻 Formerly Ame Digital, FIAP, ThoughtWorks, Pagbank and Oi companies.
 - ⚡️ I created the first React Conf Brasil and lead Frontin to more than 6 annual events.
 - 🌱 I was learning Data Science and Video Acessibility at ICMC Computer Science institute at USP São Carlos for a Master degree.
 - 👯 I love to collaborate on social projects where people can learn code in public.
