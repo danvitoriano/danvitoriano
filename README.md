@@ -1,6 +1,7 @@
 ### Hi there, I am Dan Vitoriano 👋
 
-- 🌈 Pós Tech Front-End Engineering FIAP/Alura Teacher
+- 🩷 [Pós Tech Front-End Engineering](https://postech.fiap.com.br/curso/front-end-engineering/) FIAP/Alura Teacher
+- 💙 Estude na Alura com meu [desconto](https://postech.fiap.com.br/curso/front-end-engineering/)
 - 🌈 Organizer Orgulho Tech Conference Brazil
 - :rocket: I'm a Software Developer.
 - 🥇 Recently I was honored as a LinkedIn Top Voice in Software Development, and accelerated by their program in Brazil, and listed as one of 50 developers to follow by Gama Academy tech school at 2022 and 2023.
