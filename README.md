@@ -1,16 +1,16 @@
 ### Hi there, I am Dan Vitoriano 👋
 
+- :rocket: I'm a Software Developer.
 - 🩷 [Pós Tech Front-End Engineering](https://postech.fiap.com.br/curso/front-end-engineering/) FIAP/Alura Teacher
 - 💙 Estude na Alura com meu [desconto](https://postech.fiap.com.br/curso/front-end-engineering/)
 - 🌈 Organizer Orgulho Tech Conference Brazil
-- :rocket: I'm a Software Developer.
 - 🥇 Recently I was honored as a LinkedIn Top Voice in Software Development, and accelerated by their program in Brazil, and listed as one of 50 developers to follow by Gama Academy tech school at 2022 and 2023.
 - 🔭 I’m currently working as a Software Developer Consultant specialized in front-end solutions with JavaScript.
 - 💻 Formerly Ame Digital, ThoughtWorks, Pagbank and Oi companies.
 - ⚡️ I created the first React Conf Brasil and lead Frontin to more than 6 annual events.
 - 🌱 I was learning Data Science and Video Acessibility at ICMC Computer Science institute at USP São Carlos for a Master degree.
 - 👯 I love to collaborate on social projects where people can learn code in public.
-- 📖 You can have classes with me on Discord or take part on my YouTube Podcast 'Devs 40+'.
+- 📖 You can take part on my YouTube Podcast 'Devs 40+'.
 - 💬 Ask me about anything related to web design and hypermidia interfaces.
 - 📫 How to reach me: Youtube, Instagram, Twitter, TikTok and Linkedin. My profile is @danvitoriano.
 - ⚡ Fun fact: I am a "Sarrada Voadora" front-end winner.
