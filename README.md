@@ -1,6 +1,7 @@
 ### Hi there, I am Dan Vitoriano 👋
 
-- :rocket: I'm a Software Developer.
+- :rocket: I'm a Software Developer
+- 🏳️‍🌈 Top 150 LGBTI+ Professionals 2025 by "Maratona do Orgulho"
 - 🩷 [Pós Tech Front-End Engineering](https://postech.fiap.com.br/curso/front-end-engineering/) FIAP/Alura Teacher
 - 💙 Estude na Alura com meu [desconto](https://postech.fiap.com.br/curso/front-end-engineering/)
 - 🌈 Organizer Orgulho Tech Conference Brazil
