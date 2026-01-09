@@ -13,7 +13,3 @@
 - 📖 You can take part on my YouTube Podcast 'Devs 40+'.
 - 📫 How to reach me: Youtube, Instagram, Twitter, TikTok and Linkedin. My profile is @danvitoriano.
 - ⚡ Fun fact: I am a "Sarrada Voadora" front-end winner.
-
-[![Dan Vitoriano's GitHub stats](https://github-readme-stats.vercel.app/api?username=danvitoriano&show_icons=true)](https://github.com/danvitoriano/github-readme-stats)
-
-<a href="https://github.com/danvitoriano/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvitoriano&langs_count=6" /></a>
