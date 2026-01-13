@@ -1,15 +1,28 @@
-### Hi there, I am Dan Vitoriano 👋
+### Hi there, I'm Dan Vitoriano 👋  
 
-- :rocket: I'm a Software Developer
-- 🏳️‍🌈 Top 150 LGBTI+ Professionals 2025 by "Maratona do Orgulho"
-- 🩷 [Pós Tech Front-End Engineering](https://postech.fiap.com.br/curso/front-end-engineering/) FIAP/Alura Teacher
-- 💙 Estude na Alura com meu [desconto](https://postech.fiap.com.br/curso/front-end-engineering/)
-- 🌈 Organizer Orgulho Tech Conference Brazil
-- 🥇 Recently I was accelerated by LinkedIn Creator's program in Brazil, and listed as one of 50 developers to follow by Gama Academy tech school at 2022 and 2023.
-- 🔭 I’m currently working as a Software Developer Consultant specialized in front-end solutions with JavaScript.
-- 💻 Formerly Ame Digital, ThoughtWorks, Pagbank and Oi companies.
-- ⚡️ I created the first React Conf Brasil and lead Frontin to more than 6 annual events.
-- 🌱 I was learning Data Science and Video Acessibility at ICMC Computer Science institute at USP São Carlos for a Master degree.
-- 📖 You can take part on my YouTube Podcast 'Devs 40+'.
-- 📫 How to reach me: Youtube, Instagram, Twitter, TikTok and Linkedin. My profile is @danvitoriano.
-- ⚡ Fun fact: I am a "Sarrada Voadora" front-end winner.
+I build communities, teach technology, and help people grow in tech — especially those who don’t usually see themselves in this space.
+
+- 🚀 Software Developer & Front-end Specialist (JavaScript)
+- 💼 Currently working for Envoy Development (Phoenix/AZ)
+- 🏳️‍🌈 Top 150 LGBTI+ Professionals in Tech (2025) — Maratona do Orgulho
+- 🩷 FIAP Teacher — Pós Tech Front-End Engineering
+- 💙 Alura Tech Influencer
+- 🌈 Organizer of **Orgulho Tech Conference** (Brazil)
+- 🥇 LinkedIn Creator Program (Brazil)
+- ⭐ One of the 50 Developers to Follow — Gama Academy (2022 & 2023)
+- 💻 Formerly at Ame Digital, ThoughtWorks (GAP), PagBank and Oi.
+- ⚡ Creator of the first **React Conf Brasil** and former lead of **Frontin** (6+ editions)
+- 🌱 Master’s studies in Computer Science at USP (ICMC São Carlos), focusing on Data Science and Digital Accessibility
+- 🎙️ Host of the YouTube podcast **Devs 40+**
+
+#### 🌍 Communities, Content & Links
+- ▶️ YouTube: https://youtube.com/@danvitoriano  
+- 📸 Instagram: https://instagram.com/danvitoriano  
+- 🎵 TikTok: https://tiktok.com/@danvitoriano  
+- 🐦 Twitter/X: https://twitter.com/danvitoriano  
+- 💼 LinkedIn: https://linkedin.com/in/danvitoriano  
+- 🎓 Alura (with my discount): https://www.alura.com.br/danvitoriano
+
+📫 You can find me everywhere as **@danvitoriano**
+
+⚡ Fun fact: Winner of the legendary *Sarrada Voadora Front-end* 🕺
