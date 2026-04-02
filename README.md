@@ -17,7 +17,12 @@ I build communities, teach technology, and help people grow in tech — especial
 
 #### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danvitoriano&layout=compact&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000&cache_seconds=86400)
+<a href="https://github.com/danvitoriano/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-rouge-phi-60.vercel.app/api?username=danvitoriano" />
+</a>
+<a href="https://github.com/danvitoriano">
+  <img height=200 align="center" src="https://github-readme-stats-rouge-phi-60.vercel.app/api/top-langs?username=danvitoriano&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 #### 🌍 Communities, Content & Links
 - ▶️ YouTube: https://youtube.com/@danvitoriano  
