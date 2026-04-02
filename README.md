@@ -15,6 +15,10 @@ I build communities, teach technology, and help people grow in tech — especial
 - 🌱 Master’s studies in Computer Science at USP (ICMC São Carlos), focusing on Data Science and Digital Accessibility
 - 🎙️ Host of the YouTube podcast **Devs 40+**
 
+#### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danvitoriano&layout=compact&langs_count=8&theme=transparent)
+
 #### 🌍 Communities, Content & Links
 - ▶️ YouTube: https://youtube.com/@danvitoriano  
 - 📸 Instagram: https://instagram.com/danvitoriano  
