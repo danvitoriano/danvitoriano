@@ -2,11 +2,12 @@
 
 I build communities, teach technology, and help people grow in tech — especially those who don’t usually see themselves in this space.
 
+- 🤖 Agentic AI Developer and Consultant specialized in teaching AI for companies and financial services
 - 🚀 Software Developer & Front-end Specialist (JavaScript)
 - 💼 Currently working for Envoy Development (Phoenix/AZ)
 - 🏳️‍🌈 Top 150 LGBTI+ Professionals in Tech (2025) — Maratona do Orgulho
-- 🩷 FIAP Teacher — Pós Tech Front-End Engineering
-- 💙 Alura Tech Influencer
+- 🩷 FIAP Teacher — Pós Tech Front-End Engineering and Agentic AI
+- 💙 Alura promotional discount: DANVITORIANO 
 - 🌈 Organizer of **Orgulho Tech Conference** (Brazil)
 - 🥇 LinkedIn Creator Program (Brazil)
 - ⭐ One of the 50 Developers to Follow — Gama Academy (2022 & 2023)
